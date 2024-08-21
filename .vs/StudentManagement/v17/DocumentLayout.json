@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Angular Sessions BL\\StudentManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9033C19-4E59-448E-BC67-75F5C2FC1EAF}|StudentManagement.csproj|D:\\Angular Sessions BL\\StudentManagement\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9033C19-4E59-448E-BC67-75F5C2FC1EAF}|StudentManagement.csproj|solutionrelative:webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9033C19-4E59-448E-BC67-75F5C2FC1EAF}|StudentManagement.csproj|d:\\angular sessions bl\\studentmanagement\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B9033C19-4E59-448E-BC67-75F5C2FC1EAF}|StudentManagement.csproj|solutionrelative:webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebForm1.aspx.cs",
+              "DocumentMoniker": "D:\\Angular Sessions BL\\StudentManagement\\WebForm1.aspx.cs",
+              "RelativeDocumentMoniker": "WebForm1.aspx.cs",
+              "ToolTip": "D:\\Angular Sessions BL\\StudentManagement\\WebForm1.aspx.cs",
+              "RelativeToolTip": "WebForm1.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T16:40:20.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "D:\\Angular Sessions BL\\StudentManagement\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "WebForm1.aspx",
+              "ToolTip": "D:\\Angular Sessions BL\\StudentManagement\\WebForm1.aspx",
+              "RelativeToolTip": "WebForm1.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-20T16:30:11.243Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
